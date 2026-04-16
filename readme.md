@@ -132,4 +132,4 @@ Sponsored By: <a href="https://altern.ai">Altern, List of AI tools and resources
 
 ### Popular Mobile Proxy Providers
 
--[ProxyPoland] (https://proxypoland.com)
+- [Proxy Poland](https://proxypoland.com/)
